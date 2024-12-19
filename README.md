@@ -1,5 +1,4 @@
 # Capstone-3
-read me 
 
 models 
 
