@@ -2,34 +2,50 @@
 
 models 
 
-Attendance
-Event
-Role
-Stadium
+Attendance 
+
+Event 
+
+Role  
+
+Stadium 
 
 DTO
 
 AttendanceDTO
+
 AttendanceDTOout
+
 EventDTO
+
 EventDTOout
+
 RoleDTO
+
 RoleDTOout
+
 StadiumDTO
+
 StadiumDTOout
 
 Repository
 
 AttendanceRepository
+
 EventRepository
+
 RoleRepository
+
 StadiumRepositor
 
 Service
 
 AttendanceService
+
 EventService
+
 RoleService
+
 StadiumService
 
 Endpoints
